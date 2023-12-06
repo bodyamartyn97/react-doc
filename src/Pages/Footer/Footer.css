@@ -1,0 +1,10 @@
+.Footer {
+    padding: 10px;
+    background-color: rgb(32, 35, 41);
+    grid-area: footer;
+}
+
+.Footer p,
+.Footer h3 {
+    color: #fff;
+}
